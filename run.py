@@ -50,7 +50,7 @@ def dirForce():
 
 banner = pyfiglet.figlet_format("NW-OP")
 print banner + "\tTwitter : @TurB0H4x\n"
-print "[1] Traffic Sniffer \n[2] ARP scanner \n[3] Start WebServer \n[4] BruteForce Directory \n[5] Ports Scanner"
+print "[1] Packets Sniffer \n[2] ARP scanner \n[3] Start WebServer \n[4] BruteForce Directory \n[5] Ports Scanner"
 op = str(input("Please chose one for Run it : "))
 
 if op == "1":
